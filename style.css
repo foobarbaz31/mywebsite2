@@ -1,0 +1,17 @@
+.masthead-container {
+  text-align: center;
+  display: block;
+  position: relative;
+  padding-top: 20rem;
+  padding-bottom: 5rem;
+}
+
+.masthead-h1 {
+  color: white;
+  font-size: 8rem;
+  font-weight: bold;
+}
+
+.i-padding {
+  padding-top: 20px;
+}
